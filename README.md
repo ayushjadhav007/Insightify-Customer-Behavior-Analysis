@@ -58,22 +58,22 @@ Converted complex data into easy-to-understand visuals.
 
 📁 Repository Structure
 
-Insightify-Customer-Behavior-Analysis/
-│
-├── data/
-│   ├── raw/                # Raw dataset
-│   └── cleaned/            # Cleaned dataset
-│
-├── notebooks/
-│   └── data_cleaning.ipynb # Python data cleaning & EDA
-│
-├── sql/
-│   └── analysis_queries.sql # SQL business queries
-│
-├── powerbi/
-│   └── Insightify_Dashboard.pbix # Power BI dashboard
-│
-└── README.md
+Insightify-Customer-Behavior-Analysis/<br>
+│<br>
+├── data/<br>
+│   ├── raw/                # Raw dataset<br>
+│   └── cleaned/            # Cleaned dataset<br>
+│<br>
+├── notebooks/<br>
+│   └── data_cleaning.ipynb # Python data cleaning & EDA<br>
+│<br>
+├── sql/<br>
+│   └── analysis_queries.sql # SQL business queries<br>
+│<br>
+├── powerbi/<br>
+│   └── Insightify_Dashboard.pbix # Power BI dashboard<br>
+│<br>
+└── README.md<br>
 
 
 📌 Future Enhancements
