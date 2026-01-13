@@ -39,3 +39,38 @@ Designed interactive dashboards with:
 Implemented filters and drill-downs for deeper analysis.
 Converted complex data into easy-to-understand visuals. 
 
+📊 Key Insights
+
+- Identification of high-value and low-engagement customers.
+- Clear customer segmentation based on behavior.
+- Purchase frequency and revenue contribution analysis.
+- Seasonal and trend-based insights for marketing strategy.
+
+📁 Repository Structure
+
+Insightify-Customer-Behavior-Analysis/
+│
+├── data/
+│   ├── raw/                # Raw dataset
+│   └── cleaned/            # Cleaned dataset
+│
+├── notebooks/
+│   └── data_cleaning.ipynb # Python data cleaning & EDA
+│
+├── sql/
+│   └── analysis_queries.sql # SQL business queries
+│
+├── powerbi/
+│   └── Insightify_Dashboard.pbix # Power BI dashboard
+│
+└── README.md
+
+
+📌 Future Enhancements
+
+- Add machine learning-based customer segmentation
+- Automate ETL pipeline
+- Deploy dashboard to Power BI Service
+- Integrate real-time data sources
+
+
