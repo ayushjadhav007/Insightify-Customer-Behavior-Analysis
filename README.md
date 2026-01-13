@@ -4,14 +4,13 @@ Insightify is an end-to-end data analytics project designed to analyze and under
 🧩 Problem Statement
 
 Businesses today collect large volumes of customer data from multiple sources such as transactions, demographics, and engagement platforms. However, this data is often raw, inconsistent, and difficult to analyze, making it challenging for organizations to understand customer behavior and make informed decisions.
-The absence of a structured analytical approach leads to:
-Poor understanding of customer purchasing patterns
-Difficulty in identifying high-value customers
-Ineffective customer segmentation
----
-Limited visibility into revenue and engagement trends
+  - The absence of a structured analytical approach leads to:
+  - Poor understanding of customer purchasing patterns
+  - Difficulty in identifying high-value customers
+  - Ineffective customer segmentation
+  - Limited visibility into revenue and engagement trends
 
-The problem is to design an end-to-end analytics solution that cleans raw customer data, analyzes customer behavior using structured queries, and presents insights through interactive dashboards to support data-driven business decisions
+
 🎯 Objectives
 - Clean and preprocess raw customer data.
 - Answer business-oriented questions using SQL.
